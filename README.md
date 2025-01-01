@@ -16,6 +16,8 @@
 | 08 | [衝堂](/08/README.md) | [github page](/08) |
 | 09 | [線段覆蓋長度](/09/README.md) | [github page](/09) |
 | 10 | [保齡球](/10/README.md) | [github page](/10) |
+| 10 | [買書](/11/README.md) | [github page](/11) |
+| 10 | [撲克牌](/12/README.md) | [github page](/12) |
 | == | ===== | ===== |
 | 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
 | 34 | [朋友相依關係](/34/README.md) | [github page](/34) |
