@@ -20,9 +20,10 @@
 | 10 | [撲克牌](/12/README.md) | [github page](/12) |
 | == | ===== | ===== |
 | 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
+| 36 | [部落旅遊](/36/README.md) | [github page](/36) |
+| == | ===== | ===== |
 | 34 | [朋友相依關係](/34/README.md) | [github page](/34) |
 | 35 | [理想大學](/35/README.md) | [github page](/35) |
-| 36 | [部落旅遊](/36/README.md) | [github page](/36) |
 | 33 | [全班學生成績處理](/37/README.md) | [github page](/37) |
 | 34 | [山洞找黃金](/38/README.md) | [github page](/38) |
 | 35 | [賓果遊戲](/39/README.md) | [github page](/39) |
