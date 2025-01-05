@@ -23,6 +23,10 @@
 | 34 | [朋友相依關係](/34/README.md) | [github page](/34) |
 | 35 | [理想大學](/35/README.md) | [github page](/35) |
 | 36 | [部落旅遊](/36/README.md) | [github page](/36) |
+| 33 | [全班學生成績處理](/37/README.md) | [github page](/37) |
+| 34 | [山洞找黃金](/38/README.md) | [github page](/38) |
+| 35 | [賓果遊戲](/39/README.md) | [github page](/39) |
+| 36 | [基因序列](/40/README.md) | [github page](/40) |
 
 ### 額外補充
 內容 | 解答 |
