@@ -22,16 +22,16 @@
 | 14 | [撲克牌](/14/README.md) | [github page](/14) |
 | 15 | [眾人BMI](/15/README.md) | [github page](/15)
 | 16 | [Triangle找面積](/16/README.md) | [github page](/16)
+| 17 | [衝堂](/17/README.md) | [github page](/17)
+| 18 | [圖形繪製](/18/README.md) | [github page](/18)
+| 19 | [數字三角形](/19/README.md) | [github page](/19)
+| 20 | [數字矩陣](/20/README.md) | [github page](/20)
 | == | ===== | ===== |
 | 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
 | 36 | [部落旅遊](/36/README.md) | [github page](/36) |
 | 37 | [全班學生成績處理](/37/README.md) | [github page](/37) |
 | 38 | [山洞找黃金](/38/README.md) | [github page](/38) |
 | == | ===== | ===== |
-| 17 | [衝堂](/17/README.md) | [github page](/17)
-| 18 | [圖形繪製](/18/README.md) | [github page](/18)
-| 19 | [數字三角形](/19/README.md) | [github page](/19)
-| 20 | [數字矩陣](/20/README.md) | [github page](/20)
 | 21 | [梭哈類型](/21/README.md) | [github page](/21)
 | 22 | [梭哈比大小](/22/README.md) | [github page](/22)
 | 23 | [撲克牌十點半](/23/README.md) | [github page](/23)
