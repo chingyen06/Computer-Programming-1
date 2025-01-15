@@ -119,7 +119,6 @@ Error input
 3  
 Amy 2C 3C 4C 5C 6C  
 Tina 6H 6D 6C 7C 6S  
-  
 Joe AD 8D 8S 8H 7C  
 輸出:  
 Duplicate deal  
