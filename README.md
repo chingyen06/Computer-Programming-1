@@ -34,16 +34,16 @@
 | 26 | [疫情分析](/26/README.md) | [github page](/26)
 | 27 | [成對檢查](/27/README.md) | [github page](/27)
 | 28 | [字串操作](/28/README.md) | [github page](/28)
+| 29 | [數位電路模擬I](/29/README.md) | [github page](/29)
+| 30 | [數位電路模擬II](/30/README.md) | [github page](/30)
+| 31 | [葛雷碼](/31/README.md) | [github page](/31)
+| 32 | [迷你數獨](/32/README.md) | [github page](/32)
 | == | ===== | ===== |
 | 33 | [無人機距離檢測](/33/README.md) | [github page](/33) |
 | 36 | [部落旅遊](/36/README.md) | [github page](/36) |
 | 37 | [全班學生成績處理](/37/README.md) | [github page](/37) |
 | 38 | [山洞找黃金](/38/README.md) | [github page](/38) |
 | == | ===== | ===== |
-| 29 | [數位電路模擬I](/29/README.md) | [github page](/29)
-| 30 | [數位電路模擬II](/30/README.md) | [github page](/30)
-| 31 | [葛雷碼](/31/README.md) | [github page](/31)
-| 32 | [迷你數獨](/32/README.md) | [github page](/32)
 | 34 | [朋友相依關係](/34/README.md) | [github page](/34) |
 | 35 | [理想大學](/35/README.md) | [github page](/35) |
 | 39 | [賓果遊戲](/39/README.md) | [github page](/39) |
