@@ -53,4 +53,4 @@
 |:--------:|:-------:|
 | [Copy](/copy/README.md) | [github page](/copy)
 
-**使用 vscode 執行時，可在 command prompt 輸入 python 檔名.py < 檔名.txt 輸入 txt 內的資料當測資**
+**使用 vscode 執行時，可在 command prompt 輸入 python 檔名1.py < 檔名2.txt 輸入 txt 內的資料當測資**
