@@ -52,3 +52,5 @@
 內容 | 解答 |
 |:--------:|:-------:|
 | [Copy](/copy/README.md) | [github page](/copy)
+
+**使用 vscode 執行時，可在 command prompt 輸入 python 檔名.py < 檔名.txt 輸入 txt 內的資料當測資**
